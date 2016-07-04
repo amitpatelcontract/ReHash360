@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/ic_person_add_24dp.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/ic_person_add_24dp.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/ic_done_24dp.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/ic_done_24dp.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/heart_empty.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/heart_empty.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/ic_person_outline_black_24dp.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/ic_person_outline_black_24dp.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/ic_chat_24dp.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/ic_chat_24dp.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/ic_whatshot_black_24dp.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/ic_whatshot_black_24dp.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/ic_camera_alt_24dp.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/ic_camera_alt_24dp.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/heart_full.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/heart_full.png"
+    },
+    {
+        "merged": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/drawable-ldpi-v4/heart.png",
+        "source": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/generated/res/pngs/dev/debug/drawable-ldpi/heart.png"
+    }
+]

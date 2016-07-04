@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650687487628",
+    "firebase_url": "https://rehash360.firebaseio.com",
+    "project_id": "rehash360",
+    "storage_bucket": "rehash360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650687487628:android:106e3ba266407639",
+        "android_client_info": {
+          "package_name": "com.rehash.threesixty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650687487628-3vras2bnf6apd7a5g2v552dibgcsplk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehash.threesixty",
+            "certificate_hash": "07B75E0BDDC35F3411EAD31374B96AE53433B715"
+          }
+        },
+        {
+          "client_id": "650687487628-tddrvdae4ut3qsroi3uuopjmeq3hvj0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-GU3sfXKZmD0zTppmoJDzI79ZIsdXlyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650687487628-tddrvdae4ut3qsroi3uuopjmeq3hvj0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/res/merged/dev/debug/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/arms/Documents/gitNshop/Chirag-Patel-Games/nShop/rehash360/app/build/intermediates/exploded-aar/rehash360/common/unspecified/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 196,
+                        "endColumn": 60,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    }
+]
